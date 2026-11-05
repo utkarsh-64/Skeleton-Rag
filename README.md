@@ -1,4 +1,4 @@
-# Plug-and-play RAG
+# Skeleton-RAG
 
 Drop-in Python module for PDF and Word (.docx) question answering with Gemini.
 SQLite stores extracted text and embeddings locally. Requires Python 3.12+.
